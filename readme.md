@@ -20,6 +20,20 @@ Olar :) Você encontrará conteúdo, informações, materiais de estudo e reposi
 
 
 Se você conhece algum repositório que esteja aceitando contribuições, pode inseri-lo [aqui](https://github.com/leticiadasilva/Hacktoberfest/blob/master/repositorios.md) :)  
+## Sumário  
+
+[teste hack](teste.com)
+
+1. [teste hack](teste.com)  
+
+2. [teste hack](teste.com)  
+
+3. [teste hack](teste.com)  
+
+4. [teste hack](teste.com)
+
+
+Se você conhece algum repositório que esteja aceitando contribuições, pode inseri-lo [teste hack](teste.com) :)  
 
 ### **ATENÇÃO**: 
 Na edição de 2020, a partir do dia 03/10/2020, só serão aceitos pull requests marcados com a label _hacktoberfest-accepted_ por mantenedores, OU os que foram aprovados OU receberam merge em repositórios que estejam classificados com o tópico _hacktoberfest_. Mais informações sobre as regras do evento e de como adicionar tópicos e labels em repositórios e pull requests podem ser encontradas [aqui](https://hacktoberfest.digitalocean.com/hacktoberfest-update?utm_medium=email&utm_source=hacktoberfest&utm_campaign=main_&utm_content=response).
